@@ -15,5 +15,5 @@ This application was developped in eclipse, and tested on an android 2.3.3 devic
 Installation
 ======================
 
-Import the code in your IDE, add to the build path the cordova library.
+Import the project in your IDE, add to the build path the cordova library.
 
