@@ -2,7 +2,7 @@ Using Bluetooth on PhoneGap Application
 ======================
 
 
-This repositery contains a code example of a chat, developped for android devices.
+This repositery contains an example of a chat, developped in JAVA for android devices.
 
 Requirements
 ======================
