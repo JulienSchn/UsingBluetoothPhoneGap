@@ -6,7 +6,7 @@ This repositery contains an example of a chat, developped in JAVA for android de
 
 Requirements
 ======================
-The application requires a cordova library (tested with the cordova-2.7.0.jar ).
+The application requires a cordova library (tested with 2.7 version ).
 
 Environment
 ======================
