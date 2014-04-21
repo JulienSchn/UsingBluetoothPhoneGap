@@ -1,2 +1,3 @@
-UsingBluetoothPhoneGap
+Using BluetoothPhoneGap
 ======================
+
