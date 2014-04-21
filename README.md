@@ -17,3 +17,15 @@ Installation
 
 Import the project in your IDE, add to the build path the cordova library.
 
+How to use the application ?
+======================
+
+Click on the "turn on" button to activate your bluetooth.
+Then click on discover to see all devices you can connect to.
+Select one ( sometimes the application crashes because the devices are not correctly paired) after about 2-3 secondes the connection is set. You can chat between your connected devices.
+
+Improvements
+=======================
+- Correct the bug of the application when you try to connect.
+- Correct the error message when the application is closed.
+- Improve the display of the application.
